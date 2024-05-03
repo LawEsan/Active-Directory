@@ -1,4 +1,4 @@
-# Active Directory Lab | (Oracle VirtualBox) with PowerShell
+# Active Directory | (Oracle VirtualBox) with PowerShell
 
 ## Introduction 
 I am going to build a Windows environment for a corporate organisation and implement Active Directory.
