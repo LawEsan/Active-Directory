@@ -2,7 +2,8 @@
 
 ## Introduction 
 I am going to build a Windows environment for a corporate organisation and implement Active Directory.
-![AD Diagram]
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695887294/in/dateposted-public/" title="AD Diagram.drawio"><img src="https://live.staticflickr.com/65535/53695887294_f1849ef4bb_c.jpg" width="800" height="659" alt="AD Diagram.drawio"/></a>
 
 ##  Install VirtualBox
 - Go to https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
