@@ -134,7 +134,7 @@ NOTE: DC stands for Domain Controller. Create a VM using the Windows Server 2019
 - Username: a-lesan
 - Password: Password1
 
-## Install Remote Access Server / Network Address Translation (RAS/NAT)
+## Install Remote Access Server / Network Address Translation (RAS / NAT)
 - In the DC VM open the Server Manager app
 - Click Add roles and features → Next → Next
 - Click on DC.mydomain.com Windows Server 2019 → Next
@@ -201,6 +201,7 @@ This will allow our Windows 10 clients to get an IP address that will let them b
 - Click the play button in PowerShell or F5 on the keyboard to run script → Click Run once 
 - Once the script is running, you will see PowerShell creating users using the names in the AD_PS-master file
 - Minimize PowerShell (you will return to it later)
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53694625182/in/dateposted-public/" title="Run AD Script"><img src="https://live.staticflickr.com/65535/53694625182_d9c465161c_c.jpg" width="800" height="533" alt="Run AD Script"/></a>
 
 ## Create CLIENT01 VM
@@ -226,6 +227,7 @@ This will allow our Windows 10 clients to get an IP address that will let them b
 - Power on CLIENT01 VM by double clicking the icon
 - Next → Install now → Click “I don’t have a product key
 - Select the operating system you want to install → Click Windows 10 Pro → Next
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695515771/in/dateposted-public/" title="Windows 10 Pro OS Setup"><img src="https://live.staticflickr.com/65535/53695515771_bfc5b5df05_c.jpg" width="800" height="654" alt="Windows 10 Pro OS Setup"/></a>
 
 - Click the box “I accept the licence terms” → Next
