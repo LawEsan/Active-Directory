@@ -20,6 +20,7 @@ Microsoft's Media Creation Tool is only for Windows. If you access the website f
 - Under the "User Agent" section, uncheck "Use Browser Default"
 - Chrome offers a long list of pre-configured user agents to choose from in a drop-down menu. For this to work, you have to trick Microsoft into thinking you're using a non-Windows operating system. Anything that isn't Windows-based will suffice, so we selected "Safari - Mac."
 - Keep the Developer Tools pane open and refresh the ISO file download page. This time, when it loads, you'll see a drop-down menu where you can select the edition of the Windows 10 ISO you want to download.
+  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695864929/in/dateposted-public/" title="Developer Tools"><img src="https://live.staticflickr.com/65535/53695864929_d90ffd8d18_c.jpg" width="800" height="503" alt="Developer Tools"/></a>
 
 ## Download Windows Server 2019
@@ -88,6 +89,7 @@ NOTE: DC stands for Domain Controller. Create a VM using the Windows Server 2019
 - Preferred DNS server: 127.0.0.1 (Note: this is your loopback address meaning when you ping it, you are pinging yourself thereby using yourself as the DNS server)
 - Click OK
 - Close
+  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53694625177/in/dateposted-public/" title="Rename Network Connections"><img src="https://live.staticflickr.com/65535/53694625177_b65da703f3_c.jpg" width="800" height="420" alt="Rename Network Connections"/></a>
 
 ## Rename PC
