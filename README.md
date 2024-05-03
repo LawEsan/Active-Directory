@@ -9,7 +9,7 @@ I am going to build a Windows environment for a corporate organisation and imple
 - Download Windows 64-bit Oracle VM VirtualBox Base Packages - 7.0.14
 - Download Oracle VM VirtualBox Extension Pack 7.0.14  7.0.14 ExtPack
 - The next stage is you must install Windows 10 Disc Image (ISO File) without the Media Creation Tool.
-![VirtualBox download](<a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695515776/in/dateposted-public/" title="VirtualBox download"><img src="https://live.staticflickr.com/65535/53695515776_534153fcca_z.jpg" width="640" height="327" alt="VirtualBox download"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695515776/in/dateposted-public/" title="VirtualBox download"><img src="https://live.staticflickr.com/65535/53695515776_534153fcca_c.jpg" width="800" height="409" alt="VirtualBox download"/></a>
 
 ## Download a Windows 10 Disc Image (ISO File) Without the Media Creation Tool
 Microsoft's Media Creation Tool is only for Windows. If you access the website from another operating system — like macOS or Linux — you're sent to a page where you can directly download an ISO file instead. To get those direct ISO file downloads on Windows, you'll need to make your web browser pretend you're using another operating system. This requires spoofing your browser's user agent.
