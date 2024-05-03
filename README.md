@@ -20,7 +20,7 @@ Microsoft's Media Creation Tool is only for Windows. If you access the website f
 - Under the "User Agent" section, uncheck "Use Browser Default"
 - Chrome offers a long list of pre-configured user agents to choose from in a drop-down menu. For this to work, you have to trick Microsoft into thinking you're using a non-Windows operating system. Anything that isn't Windows-based will suffice, so we selected "Safari - Mac."
 - Keep the Developer Tools pane open and refresh the ISO file download page. This time, when it loads, you'll see a drop-down menu where you can select the edition of the Windows 10 ISO you want to download.
-![Developer Tools]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695864929/in/dateposted-public/" title="Developer Tools"><img src="https://live.staticflickr.com/65535/53695864929_d90ffd8d18_c.jpg" width="800" height="503" alt="Developer Tools"/></a>
 
 ## Download Windows Server 2019
 - Go to https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
@@ -88,7 +88,7 @@ NOTE: DC stands for Domain Controller. Create a VM using the Windows Server 2019
 - Preferred DNS server: 127.0.0.1 (Note: this is your loopback address meaning when you ping it, you are pinging yourself thereby using yourself as the DNS server)
 - Click OK
 - Close
-![Rename Network Connections]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53694625177/in/dateposted-public/" title="Rename Network Connections"><img src="https://live.staticflickr.com/65535/53694625177_b65da703f3_c.jpg" width="800" height="420" alt="Rename Network Connections"/></a>
 
 ## Rename PC
 - On the DC VM Home Screen, at the bottom, click the magnifying glass → About your PC → Rename this PC → Type “PC”
@@ -199,7 +199,7 @@ This will allow our Windows 10 clients to get an IP address that will let them b
 - Click the play button in PowerShell or F5 on the keyboard to run script → Click Run once 
 - Once the script is running, you will see PowerShell creating users using the names in the AD_PS-master file
 - Minimize PowerShell (you will return to it later)
-![Run AD Script]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53694625182/in/dateposted-public/" title="Run AD Script"><img src="https://live.staticflickr.com/65535/53694625182_d9c465161c_c.jpg" width="800" height="533" alt="Run AD Script"/></a>
 
 ## Create CLIENT01 VM
 - Open Oracle VM VirtualBox 
@@ -224,7 +224,8 @@ This will allow our Windows 10 clients to get an IP address that will let them b
 - Power on CLIENT01 VM by double clicking the icon
 - Next → Install now → Click “I don’t have a product key
 - Select the operating system you want to install → Click Windows 10 Pro → Next
-![Windows 10 Pro OS Setup]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695515771/in/dateposted-public/" title="Windows 10 Pro OS Setup"><img src="https://live.staticflickr.com/65535/53695515771_bfc5b5df05_c.jpg" width="800" height="654" alt="Windows 10 Pro OS Setup"/></a>
+
 - Click the box “I accept the licence terms” → Next
 - Custom: Install Windows only (advanced) → Next
 - Once it has finished installing, the VM will reboot and ask you to select a region
