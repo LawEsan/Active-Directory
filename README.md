@@ -281,3 +281,6 @@ This will allow our Windows 10 clients to get an IP address that will let them b
 - Type “whoami” → press enter key 
 - You should see you are a member of “mydomain” and your username is “lesan”
 - You have now created an intranet for your organisation and employees.
+
+## Conclusion
+This project involved setting up a Windows environment for a corporate organization using Oracle VirtualBox and PowerShell. Key tasks included installing VirtualBox, configuring a Windows Server 2019 Domain Controller, and setting up Active Directory. PowerShell scripts were used to automate the creation of users, demonstrating efficiency and scalability. A Windows 10 client VM was also configured and successfully connected to the domain, verifying the network's functionality. This setup provides a solid framework for managing a corporate IT infrastructure.
