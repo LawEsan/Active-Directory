@@ -2,7 +2,7 @@
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200533061@N05/53695887294/in/dateposted-public/" title="AD Diagram.drawio"><img src="https://live.staticflickr.com/65535/53695887294_8e6cd84098_c.jpg" width="800" height="635" alt="AD Diagram.drawio"/></a>
 
 ## Introduction 
-In this project I built a Windows environment for a corporate organisation and implemented Active Directory.
+In this project, I built a Windows environment for a corporate organisation and implemented Active Directory.
 
 ##  Install VirtualBox
 - Go to https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
